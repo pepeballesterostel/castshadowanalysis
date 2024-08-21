@@ -1,3 +1,3 @@
-# Occluding contour algorithm to estimate light source location
+# Cast Shadow Analysis
 
 ![Example of output](example.png)
